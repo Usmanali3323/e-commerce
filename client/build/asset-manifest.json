@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f3fb1b4.css",
+    "main.js": "/static/js/main.6af5a36b.js",
+    "static/media/developer.jpg": "/static/media/developer.6a6fb747c48a475012e9.jpg",
+    "static/media/watch.jpg": "/static/media/watch.24ea3800d117b0072e72.jpg",
+    "static/media/offer.jpg": "/static/media/offer.2349b94f763883515e76.jpg",
+    "static/media/mobile.jpg": "/static/media/mobile.6bba966cd5ce89cabbd0.jpg",
+    "static/media/BankAccount.java": "/static/media/BankAccount.71a0ab9d46f7732ac327.java",
+    "index.html": "/index.html",
+    "main.5f3fb1b4.css.map": "/static/css/main.5f3fb1b4.css.map",
+    "main.6af5a36b.js.map": "/static/js/main.6af5a36b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3fb1b4.css",
+    "static/js/main.6af5a36b.js"
+  ]
+}
